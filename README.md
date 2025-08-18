@@ -167,7 +167,7 @@ _"I need inspiration, tools, and platform tabs"_
 
 #### **Visual Tab Overview**
 
-Instead of this: `[🔖][🔖][🔖][🔖][🔖]...` _(tiny, unreadable tabs)_
+Instead of this: `[🔖][🔖][🔖][🔖][🔖]...`
 
 You get this:
 
@@ -427,5 +427,5 @@ _"The session saving feature is genius. I can switch between client projects ins
 ---
 
 _SideTab Manager - Vertical Tabs & Sessions_  
-_Version 1.0.0 | Made with ❤️ by TheWonderApps_  
+_Version 1.0.0 | Made with ❤️ by Nishad Hameed_  
 _★★★★★ Rated by thousands of Chrome users_
