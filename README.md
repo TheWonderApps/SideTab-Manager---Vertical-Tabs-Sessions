@@ -1,4 +1,4 @@
-# SideTab Manager - Chrome Web Store User Guide
+# SideTab Manager Chrome Extension - Complete Guide
 
 **Transform Your Tab Management Experience**  
 _The Ultimate Vertical Tab Manager for Chrome_
